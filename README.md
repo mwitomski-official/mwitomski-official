@@ -4,7 +4,13 @@
 </p>
 
 ### About me
-- 🔭 I’m currently working on: ,
+- 🔭 I’m currently working on: 
+
+<div align="left">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwitomski-official&repo=mwitomski-official.github.io&theme=dark&bg_color=DEG,141e30,243b55)](https://github.com/mwitomski-official/mwitomski-official.github.io)
+</div>
+
 - 🧪 I’m currently learning: CQRS, Blazor, MAUI
 - 👨‍💻 All of my projects are available at: 🟠 In Progress
 - 📝 I regularly write articles using the digital garden 🌱: https://mwitomski-official.github.io/
