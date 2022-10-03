@@ -32,12 +32,14 @@
        src="https://github-readme-stats.vercel.app/api?username=mwitomski-official&show_icons=true&locale=en&theme=dark&bg_color=DEG,141e30,243b55" 
        alt="mwitomski-official" /></p>
     </p>
+    <br />
     <p>&nbsp;
       <img align="center" 
            src="https://github-readme-stats.vercel.app/api/top-langs?username=mwitomski-official&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=DEG,141e30,243b55" 
            alt="mwitomski-official" />
     </p>
-    <p>&nbsp;
+    <br />
+    <p>
       <img align="center" 
            src="https://github-readme-streak-stats.herokuapp.com/?user=mwitomski-official&theme=dark&background=243b55" 
            alt="mwitomski-official" />
