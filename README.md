@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwitomski-official&repo=mwitomski-official.github.io&theme=dark&bg_color=DEG,141e30,243b55)](https://github.com/mwitomski-official/mwitomski-official.github.io)
+[![Readme Card](https://github-readme-stats-read-only.vercel.app/api/pin/?username=mwitomski-official&repo=mwitomski-official.github.io&theme=dark&bg_color=DEG,141e30,243b55)](https://github.com/mwitomski-official/mwitomski-official.github.io)
 </div>
 
 - 🧪 **I’m currently learning:** CQRS, Blazor, MAUI, Angular
@@ -31,11 +31,11 @@
 <h3 align="left">Stats</h3> 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mwitomski-official&show_icons=true&locale=en&theme=dark&bg_color=DEG,141e30,243b55" alt="mwitomski-official" />
+<img align="center" src="https://github-readme-stats-read-only.vercel.app/api?username=mwitomski-official&show_icons=true&locale=en&theme=dark&bg_color=DEG,141e30,243b55" alt="mwitomski-official" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwitomski-official&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=DEG,141e30,243b55" alt="mwitomski-official" />
+<img align="center" src="https://github-readme-stats-read-only.vercel.app/api/top-langs?username=mwitomski-official&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=DEG,141e30,243b55" alt="mwitomski-official" />
 </p>
 
 <p align="center">
