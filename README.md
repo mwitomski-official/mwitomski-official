@@ -1,3 +1,9 @@
+<img align="center"
+     width="100%"
+     height="100%"
+     src="https://cdn.mos.cms.futurecdn.net/HLG4zrX4GEASPV8e7nm9WK.jpg" 
+     alt="https://www.space.com/james-webb-space-telescope-orion-nebula-photo" />
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mwitomski-official&label=Profile%20views&color=0e75b6&style=flat" alt="mwitomski-official" /> 
 </p>
