@@ -4,18 +4,17 @@
 
 <h2 align="center">Hi 👋, I'm Mateusz</h1>
 
+<div align="center">
 ### About me
 - 🔭 **I’m currently working on:** 
 
-<div align="center">
-
 [![Readme Card](https://github-readme-stats-read-only.vercel.app/api/pin/?username=mwitomski-official&repo=mwitomski-official.github.io&theme=dark&bg_color=DEG,141e30,243b55)](https://github.com/mwitomski-official/mwitomski-official.github.io)
-</div>
 
 - 🧪 **I’m currently learning:** CQRS, Blazor, MAUI, Angular
 - 👨‍💻 **All of my projects are available at:** 🟠 In Progress
 - 📝 **I regularly write articles using the digital garden 🌱:** https://mwitomski-official.github.io/
 - 📄 **Know about my experiences:** 🟠 In Progress 
+</div>
 
 <h3>Profile trophies</h2>
 <div align="center"> 
