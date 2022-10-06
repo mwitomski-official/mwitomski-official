@@ -1,14 +1,15 @@
-<img align="center"
-     width="100%"
-     height="100%"
-     src="https://cdn.mos.cms.futurecdn.net/HLG4zrX4GEASPV8e7nm9WK.jpg" 
-     alt="https://www.space.com/james-webb-space-telescope-orion-nebula-photo" />
-
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mwitomski-official&label=Profile%20views&color=0e75b6&style=flat" alt="mwitomski-official" /> 
+  <img src="https://komarev.com/ghpvc/?username=mwitomski-official&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mwitomski-official - profile views" /> 
+  <img src="https://img.shields.io/github/last-commit/mwitomski-official/mwitomski-official?style=for-the-badge" alt="mwitomski-official - last commit" />
 </p>
 
 <h2 align="center">Hi 👋, I'm Mateusz</h1>
+
+<img align="center"
+     width="100%"
+     height="500px"
+     src="https://cdn.mos.cms.futurecdn.net/HLG4zrX4GEASPV8e7nm9WK.jpg" 
+     alt="https://www.space.com/james-webb-space-telescope-orion-nebula-photo" />
 
 <h3 align="left">About me</h3>
 
@@ -37,21 +38,35 @@
 
 <h3 align="left">Stats</h3> 
 
-<p align="center">
-<img align="center" src="https://github-readme-stats-read-only.vercel.app/api?username=mwitomski-official&show_icons=true&locale=en&theme=dark&bg_color=DEG,141e30,243b55" alt="mwitomski-official" />
-</p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats-read-only.vercel.app/api/top-langs?username=mwitomski-official&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=DEG,141e30,243b55" alt="mwitomski-official" />
-</p>
-
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwitomski-official&theme=dark&background=243b55" alt="mwitomski-official" />
-</p>
-
-
+<table width="100%" border="0" cellspacing="0" cellpadding="100%"> 
+     <tbody>
+          <tr>
+               <td align='center'>
+                    <img align="center" 
+                         src="https://github-readme-stats-read-only.vercel.app/api?username=mwitomski-official&show_icons=true&locale=en&theme=dark&bg_color=DEG,141e30,243b55" 
+                         alt="mwitomski-official" />
+               </td>
+               <td align='center'>
+                  <img align="center" 
+                       src="https://github-readme-streak-stats.herokuapp.com/?user=mwitomski-official&theme=dark&background=243b55" 
+                       alt="mwitomski-official" />
+               </td>
+          </tr>
+          <tr>
+               <td colspan="2" align='center'> 
+                    <img align="center" 
+                         src="https://github-readme-stats-read-only.vercel.app/api/top-langs?username=mwitomski-official&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=DEG,141e30,243b55" 
+                         alt="mwitomski-official" />   
+               </td>
+          </tr>
+     <tbody>
+<table>
+     
 ### Used
 * [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy),
 * [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator),
 * [github-readme-stats](https://github.com/anuraghazra/github-readme-stats),
-* [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) 
+* [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats),
+* [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter),
+* [shields](https://shields.io/),
+* [Background image](https://cdn.mos.cms.futurecdn.net/HLG4zrX4GEASPV8e7nm9WK.jpg)
