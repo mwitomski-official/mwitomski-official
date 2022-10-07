@@ -147,7 +147,7 @@ alt="https://github.com/mwitomski-official/mwitomski-official.github.io" />
      <tbody>
 <table>
 
-<!---  
+
 ### Used
 * [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy),
 * [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator),
@@ -156,7 +156,4 @@ alt="https://github.com/mwitomski-official/mwitomski-official.github.io" />
 * [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter),
 * [shields](https://shields.io/),
 * [Gradient](https://mycolor.space/gradient?ori=to+right+bottom&hex=%2327045A&hex2=%2314326D&sub=1)
--->
 * [Background image](https://cdn.mos.cms.futurecdn.net/HLG4zrX4GEASPV8e7nm9WK.jpg)
-
-
