@@ -18,20 +18,19 @@
 
 <h3 align="left">About me</h3>
 
-<div align="center">
-  
-🔭 **I’m currently working on:** 
+🧪 **I’m currently learning:** CQRS, Blazor, MAUI, Angular \
+📝 **I regularly write articles using the digital garden 🌱:** https://mwitomski-official.github.io/ \
+<!-- 👨‍💻 **All of my projects are available at:** 🟠 In Progress \
+📄 **Know about my experiences:** 🟠 In Progress
+--> 
 
-<a href="https://github.com/mwitomski-official/mwitomski-official.github.io">
-<img align="center" width="500vh"
+🔭 **I’m currently working on:** 
+<div align="center">
+<a href="https://github.com/mwitomski-official/mwitomski-official.github.io" >
+<img width="500vh"
 src="https://github-readme-stats-read-only.vercel.app/api/pin/?username=mwitomski-official&repo=mwitomski-official.github.io&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326&hide_border=true" 
 alt="https://github.com/mwitomski-official/mwitomski-official.github.io" /> 
 </a>
-  
-🧪 **I’m currently learning:** CQRS, Blazor, MAUI, Angular \
-📝 **I regularly write articles using the digital garden 🌱:** https://mwitomski-official.github.io/ \
-👨‍💻 **All of my projects are available at:** 🟠 In Progress \
-📄 **Know about my experiences:** 🟠 In Progress
 </div>
 
 <h3>Profile trophies</h2>
