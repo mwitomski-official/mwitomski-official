@@ -155,6 +155,8 @@ alt="https://github.com/mwitomski-official/mwitomski-official.github.io" />
 * [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats),
 * [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter),
 * [shields](https://shields.io/),
-* [Background image](https://cdn.mos.cms.futurecdn.net/HLG4zrX4GEASPV8e7nm9WK.jpg)
 * [Gradient](https://mycolor.space/gradient?ori=to+right+bottom&hex=%2327045A&hex2=%2314326D&sub=1)
 -->
+* [Background image](https://cdn.mos.cms.futurecdn.net/HLG4zrX4GEASPV8e7nm9WK.jpg)
+
+
