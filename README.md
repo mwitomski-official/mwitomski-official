@@ -21,8 +21,12 @@
 <div align="center">
   
 🔭 **I’m currently working on:** 
-  
-[![Readme Card](https://github-readme-stats-read-only.vercel.app/api/pin/?username=mwitomski-official&repo=mwitomski-official.github.io&theme=dark&bg_color=DEG,141e30,243b55)](https://github.com/mwitomski-official/mwitomski-official.github.io)
+
+<a href="https://github.com/mwitomski-official/mwitomski-official.github.io">
+<img align="center" width="500vh"
+src="https://github-readme-stats-read-only.vercel.app/api/pin/?username=mwitomski-official&repo=mwitomski-official.github.io&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326&hide_border=true" 
+alt="https://github.com/mwitomski-official/mwitomski-official.github.io" /> 
+</a>
   
 🧪 **I’m currently learning:** CQRS, Blazor, MAUI, Angular \
 📝 **I regularly write articles using the digital garden 🌱:** https://mwitomski-official.github.io/ \
@@ -122,29 +126,29 @@
      <tbody>
           <tr>
                <td align='center'>
-                    <img align="center" 
-                         src="https://github-readme-stats-read-only.vercel.app/api?username=mwitomski-official&show_icons=true&locale=en&theme=dark&bg_color=DEG,141e30,243b55" 
+                    <img align="center" width="500vh" 
+                         src="https://github-readme-stats-read-only.vercel.app/api?username=mwitomski-official&show_icons=true&locale=en&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326d&hide_border=true" 
                          alt="mwitomski-official" />
                </td>
           </tr>
           <tr>
                <td align='center'>
-                  <img align="center" 
-                       src="https://github-readme-streak-stats.herokuapp.com/?user=mwitomski-official&theme=dark&background=243b55" 
+                  <img align="center" width="500vh"
+                       src="https://github-readme-streak-stats.herokuapp.com/?user=mwitomski-official&theme=dark&background=27045A&hide_border=true" 
                        alt="mwitomski-official" />
                </td>
           </tr>
           <tr>
                <td align='center'> 
-                    <img align="center" 
-                         src="https://github-readme-stats-read-only.vercel.app/api/top-langs?username=mwitomski-official&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=DEG,141e30,243b55" 
+                    <img align="center" width="500vh"
+                         src="https://github-readme-stats-read-only.vercel.app/api/top-langs?username=mwitomski-official&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326d&hide_border=true" 
                          alt="mwitomski-official" />   
                </td>
           </tr>
      <tbody>
 <table>
 
-     
+<!---  
 ### Used
 * [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy),
 * [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator),
@@ -153,3 +157,5 @@
 * [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter),
 * [shields](https://shields.io/),
 * [Background image](https://cdn.mos.cms.futurecdn.net/HLG4zrX4GEASPV8e7nm9WK.jpg)
+* [Gradient](https://mycolor.space/gradient?ori=to+right+bottom&hex=%2327045A&hex2=%2314326D&sub=1)
+-->
