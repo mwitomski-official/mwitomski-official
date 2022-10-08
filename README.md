@@ -3,7 +3,13 @@
   <img src="https://img.shields.io/github/last-commit/mwitomski-official/mwitomski-official?style=for-the-badge" alt="mwitomski-official - last commit" />
 </p>
 
-<h2 align="center">Hi 👋, I'm Mateusz</h1>
+<!-- 
+<h3 align="left">Connect with me: [TODO] </h3>
+<p align="left">
+<a href="https://twitter.com/e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="e" height="30" width="40" /></a>
+</p>
+-->
+
 <table border="0" cellspacing="0"> 
      <tbody>
           <tr>
@@ -15,7 +21,7 @@
           </tr>
      </tbody>
 </table>
-
+<h3 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="left">About me</h3>
 
 🧪 **I’m currently learning:** CQRS, Blazor, MAUI, Angular \
