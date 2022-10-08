@@ -25,7 +25,8 @@
 <h3 align="left">About me</h3>
 
 🧪 **I’m currently learning:** CQRS, Blazor, MAUI, Angular \
-📝 **I regularly write articles using the digital garden 🌱:** https://mwitomski-official.github.io/ \
+📝 **I regularly write articles using the digital garden 🌱:** https://mwitomski-official.github.io/
+
 <!-- 👨‍💻 **All of my projects are available at:** 🟠 In Progress \
 📄 **Know about my experiences:** 🟠 In Progress
 --> 
