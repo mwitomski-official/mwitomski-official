@@ -14,9 +14,11 @@
      <tbody>
           <tr>
                <td align='center'>
+                 <a href ="https://github.com/mwitomski-official">
                   <img align="center" 
                        src="https://cdn.mos.cms.futurecdn.net/HLG4zrX4GEASPV8e7nm9WK.jpg" 
                        alt="https://www.space.com/james-webb-space-telescope-orion-nebula-photo" />
+                  </a>
                </td>
           </tr>
      </tbody>
@@ -132,23 +134,29 @@ alt="https://github.com/mwitomski-official/mwitomski-official.github.io" />
      <tbody>
           <tr>
                <td align='center'>
+                  <a href ="https://github.com/mwitomski-official">
                     <img align="center" width="500vh" 
                          src="https://github-readme-stats-read-only.vercel.app/api?username=mwitomski-official&show_icons=true&locale=en&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326d&hide_border=true" 
                          alt="mwitomski-official" />
+                  </a>
                </td>
           </tr>
           <tr>
                <td align='center'>
+                 <a href ="https://github.com/mwitomski-official">
                   <img align="center" width="500vh"
                        src="https://github-readme-streak-stats.herokuapp.com/?user=mwitomski-official&theme=dark&background=27045A&hide_border=true" 
                        alt="mwitomski-official" />
+                 </a>
                </td>
           </tr>
           <tr>
-               <td align='center'> 
+               <td align='center'>
+                  <a href ="https://github.com/mwitomski-official">
                     <img align="center" width="500vh"
                          src="https://github-readme-stats-read-only.vercel.app/api/top-langs?username=mwitomski-official&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326d&hide_border=true" 
-                         alt="mwitomski-official" />   
+                         alt="mwitomski-official" />
+                 </a>
                </td>
           </tr>
      <tbody>
