@@ -53,7 +53,8 @@ alt="https://github.com/mwitomski-official/mwitomski-official.github.io" />
   
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> 
+In Progress
+<!-- <a href="https://angular.io" target="_blank" rel="noreferrer"> 
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
 </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
@@ -127,7 +128,7 @@ alt="https://github.com/mwitomski-official/mwitomski-official.github.io" />
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
 </a> </p>
-
+-->
 <h3 align="left">Stats</h3> 
 
 <table align='center'> 
