@@ -1,7 +1,93 @@
-<p align="left">
+<p class="badges" align="left">
   <img src="https://komarev.com/ghpvc/?username=mwitomski-official&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mwitomski-official - profile views" /> 
   <img src="https://img.shields.io/github/last-commit/mwitomski-official/mwitomski-official?style=for-the-badge" alt="mwitomski-official - last commit" />
 </p>
+
+
+<p class="banner" align="center">
+  <img src="https://cdn.mos.cms.futurecdn.net/HLG4zrX4GEASPV8e7nm9WK.jpg" 
+       alt="https://www.space.com/james-webb-space-telescope-orion-nebula-photo" />
+</p>
+
+<p class="about">
+  <h2 align="center">Hi 👋, I'm Mateusz</h1>
+  <h3 align="left">About me</h3>
+
+  🧪 <b>I’m currently learning:</b> CQRS, Blazor, MAUI, Angular </br>
+  📝 <b>I regularly write articles using the digital garden 🌱:</b> https://mwitomski-official.github.io/ </br> 
+
+  🔭 **I’m currently working on:** 
+  <div align="center">
+    <a href="https://github.com/mwitomski-official/mwitomski-official.github.io" >
+    <img width="500vh"
+          src="https://github-readme-stats-read-only.vercel.app/api/pin/?username=mwitomski-official&repo=mwitomski-official.github.io&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326&hide_border=true" 
+          alt="https://github.com/mwitomski-official/mwitomski-official.github.io" /> 
+     </a>
+   </div>
+</p>
+
+<p class="trophies">
+  <h3>Profile trophies</h2>
+  <p align='center'>
+    <a href="https://github.com/mwitomski-official">
+      <img src="https://github-profile-trophy.vercel.app/?username=mwitomski-official&row=1&column=6&margin-w=15&margin-h=15&theme=nord" 
+           alt="mwitomski-official" /> 
+   </a>
+</p>
+
+<p class="languages-and-tools">
+  <h3 align="left">Languages and Tools</h3>
+  <p align="left"> 
+    In Progress
+  </p>
+</p>
+
+<p class="stats">
+  <h3 align="left">Stats</h3>
+  <table align='center' rules='none'>
+     <tbody>
+          <tr>
+               <td align='center'>
+                  <a href ="https://github.com/mwitomski-official">
+                    <img align="center" width="500vh" 
+                         src="https://github-readme-stats-read-only.vercel.app/api?username=mwitomski-official&show_icons=true&locale=en&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326d&hide_border=true" 
+                         alt="mwitomski-official" />
+                  </a>
+               </td>
+          </tr>
+          <tr>
+               <td align='center'>
+                 <a href ="https://github.com/mwitomski-official">
+                  <img align="center" width="500vh"
+                       src="https://github-readme-streak-stats.herokuapp.com/?user=mwitomski-official&theme=dark&background=27045A&hide_border=true" 
+                       alt="mwitomski-official" />
+                 </a>
+               </td>
+          </tr>
+          <tr>
+               <td align='center'>
+                  <a href ="https://github.com/mwitomski-official">
+                    <img align="center" width="500vh"
+                         src="https://github-readme-stats-read-only.vercel.app/api/top-langs?username=mwitomski-official&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326d&hide_border=true" 
+                         alt="mwitomski-official" />
+                 </a>
+               </td>
+          </tr>
+     <tbody>
+  <table>
+</p>
+
+### Used
+* [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy),
+* [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator),
+* [github-readme-stats](https://github.com/anuraghazra/github-readme-stats),
+* [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats),
+* [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter),
+* [shields](https://shields.io/),
+* [Gradient](https://mycolor.space/gradient?ori=to+right+bottom&hex=%2327045A&hex2=%2314326D&sub=1)
+* [Background image](https://cdn.mos.cms.futurecdn.net/HLG4zrX4GEASPV8e7nm9WK.jpg)
+
+
 
 <!-- 
 <h3 align="left">Connect with me: [TODO] </h3>
@@ -10,50 +96,6 @@
 </p>
 -->
 
-<table border="0" cellspacing="0"> 
-     <tbody>
-          <tr>
-               <td align='center'>
-                 <a href ="https://github.com/mwitomski-official">
-                  <img align="center" 
-                       src="https://cdn.mos.cms.futurecdn.net/HLG4zrX4GEASPV8e7nm9WK.jpg" 
-                       alt="https://www.space.com/james-webb-space-telescope-orion-nebula-photo" />
-                  </a>
-               </td>
-          </tr>
-     </tbody>
-</table>
-<h3 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="left">About me</h3>
-
-🧪 **I’m currently learning:** CQRS, Blazor, MAUI, Angular \
-📝 **I regularly write articles using the digital garden 🌱:** https://mwitomski-official.github.io/
-
-<!-- 👨‍💻 **All of my projects are available at:** 🟠 In Progress \
-📄 **Know about my experiences:** 🟠 In Progress
---> 
-
-🔭 **I’m currently working on:** 
-<div align="center">
-<a href="https://github.com/mwitomski-official/mwitomski-official.github.io" >
-<img width="500vh"
-src="https://github-readme-stats-read-only.vercel.app/api/pin/?username=mwitomski-official&repo=mwitomski-official.github.io&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326&hide_border=true" 
-alt="https://github.com/mwitomski-official/mwitomski-official.github.io" /> 
-</a>
-</div>
-
-<h3>Profile trophies</h2>
-
-<p align='center'>
-  <a href="https://github.com/mwitomski-official">
-    <img src="https://github-profile-trophy.vercel.app/?username=mwitomski-official&row=1&column=6&margin-w=15&margin-h=15&theme=nord" 
-         alt="mwitomski-official" /> 
-  </a>
-</p>
-  
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> 
-In Progress
 <!-- <a href="https://angular.io" target="_blank" rel="noreferrer"> 
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
 </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -129,47 +171,6 @@ In Progress
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
 </a> </p>
 -->
-<h3 align="left">Stats</h3> 
-
-<table align='center'> 
-     <tbody>
-          <tr>
-               <td align='center'>
-                  <a href ="https://github.com/mwitomski-official">
-                    <img align="center" width="500vh" 
-                         src="https://github-readme-stats-read-only.vercel.app/api?username=mwitomski-official&show_icons=true&locale=en&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326d&hide_border=true" 
-                         alt="mwitomski-official" />
-                  </a>
-               </td>
-          </tr>
-          <tr>
-               <td align='center'>
-                 <a href ="https://github.com/mwitomski-official">
-                  <img align="center" width="500vh"
-                       src="https://github-readme-streak-stats.herokuapp.com/?user=mwitomski-official&theme=dark&background=27045A&hide_border=true" 
-                       alt="mwitomski-official" />
-                 </a>
-               </td>
-          </tr>
-          <tr>
-               <td align='center'>
-                  <a href ="https://github.com/mwitomski-official">
-                    <img align="center" width="500vh"
-                         src="https://github-readme-stats-read-only.vercel.app/api/top-langs?username=mwitomski-official&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326d&hide_border=true" 
-                         alt="mwitomski-official" />
-                 </a>
-               </td>
-          </tr>
-     <tbody>
-<table>
-
-
-### Used
-* [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy),
-* [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator),
-* [github-readme-stats](https://github.com/anuraghazra/github-readme-stats),
-* [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats),
-* [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter),
-* [shields](https://shields.io/),
-* [Gradient](https://mycolor.space/gradient?ori=to+right+bottom&hex=%2327045A&hex2=%2314326D&sub=1)
-* [Background image](https://cdn.mos.cms.futurecdn.net/HLG4zrX4GEASPV8e7nm9WK.jpg)
+<!-- 👨‍💻 **All of my projects are available at:** 🟠 In Progress \
+📄 **Know about my experiences:** 🟠 In Progress
+-->
