@@ -20,7 +20,7 @@
   <div align="center">
     <a href="https://github.com/mwitomski-official/mwitomski-official.github.io" >
     <img width="500vh"
-          src="https://github-readme-stats-read-only.vercel.app/api/pin/?username=mwitomski-official&repo=mwitomski-official.github.io&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326&hide_border=true" 
+          src="https://github-readme-stats-read-only.vercel.app/api/pin/?username=mwitomski-official&repo=mwitomski-official.github.io&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326d&hide_border=true" 
           alt="https://github.com/mwitomski-official/mwitomski-official.github.io" /> 
      </a>
    </div>
