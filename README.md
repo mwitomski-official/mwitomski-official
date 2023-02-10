@@ -103,7 +103,6 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white)
 
 ## 🚀 Languages and Frameworks
@@ -172,38 +171,38 @@
 
 </br>
 
- <h2 align="center">📊 Stats</h2>
-  <table align='center' rules='none'>
-     <tbody>
-          <tr>
-               <td align='center'>
-                  <a href ="https://github.com/mwitomski-official">
-                    <img align="center" width="500vh" 
-                         src="https://github-readme-stats-read-only.vercel.app/api?username=mwitomski-official&show_icons=true&locale=en&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326d&hide_border=true" 
-                         alt="mwitomski-official" />
-                  </a>
-               </td>
-          </tr>
-          <tr>
-               <td align='center'>
-                 <a href ="https://github.com/mwitomski-official">
+<h2 align="center">📊 Stats</h2>
+<table align='center' rules='none'>
+   <tbody>
+         <tr>
+            <td align='center'>
+               <a href ="https://github.com/mwitomski-official">
+                  <img align="center" width="500vh" 
+                        src="https://github-readme-stats-read-only.vercel.app/api?username=mwitomski-official&show_icons=true&locale=en&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326d&hide_border=true" 
+                        alt="mwitomski-official" />
+               </a>
+            </td>
+         </tr>
+         <tr>
+            <td align='center'>
+               <a href ="https://github.com/mwitomski-official">
+               <img align="center" width="500vh"
+                     src="https://github-readme-streak-stats.herokuapp.com/?user=mwitomski-official&theme=dark&background=27045A&hide_border=true" 
+                     alt="mwitomski-official" />
+               </a>
+            </td>
+         </tr>
+         <tr>
+            <td align='center'>
+               <a href ="https://github.com/mwitomski-official">
                   <img align="center" width="500vh"
-                       src="https://github-readme-streak-stats.herokuapp.com/?user=mwitomski-official&theme=dark&background=27045A&hide_border=true" 
-                       alt="mwitomski-official" />
-                 </a>
-               </td>
-          </tr>
-          <tr>
-               <td align='center'>
-                  <a href ="https://github.com/mwitomski-official">
-                    <img align="center" width="500vh"
-                         src="https://github-readme-stats-read-only.vercel.app/api/top-langs?username=mwitomski-official&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326d&hide_border=true" 
-                         alt="mwitomski-official" />
-                 </a>
-               </td>
-          </tr>
-     <tbody>
-  <table>
+                        src="https://github-readme-stats-read-only.vercel.app/api/top-langs?username=mwitomski-official&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326d&hide_border=true" 
+                        alt="mwitomski-official" />
+               </a>
+            </td>
+         </tr>
+   <tbody>
+<table>
 
 ## Used
 
