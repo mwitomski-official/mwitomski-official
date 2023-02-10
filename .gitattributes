@@ -1,0 +1,2 @@
+F:/Projects/Repositories/mwitomski-official/content/space2.gif filter=lfs diff=lfs merge=lfs -text
+*.gif filter=lfs diff=lfs merge=lfs -text
