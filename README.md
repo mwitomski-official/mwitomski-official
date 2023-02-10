@@ -171,38 +171,36 @@
 
 </br>
 
-<h2 align="center">📊 Stats</h2>
-<table align='center' rules='none'>
-   <tbody>
-         <tr>
-            <td align='center'>
-               <a href ="https://github.com/mwitomski-official">
-                  <img align="center" width="500vh" 
-                        src="https://github-readme-stats-read-only.vercel.app/api?username=mwitomski-official&show_icons=true&locale=en&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326d&hide_border=true" 
-                        alt="mwitomski-official" />
-               </a>
-            </td>
-         </tr>
-         <tr>
-            <td align='center'>
-               <a href ="https://github.com/mwitomski-official">
-               <img align="center" width="500vh"
-                     src="https://github-readme-streak-stats.herokuapp.com/?user=mwitomski-official&theme=dark&background=27045A&hide_border=true" 
-                     alt="mwitomski-official" />
-               </a>
-            </td>
-         </tr>
-         <tr>
-            <td align='center'>
-               <a href ="https://github.com/mwitomski-official">
-                  <img align="center" width="500vh"
-                        src="https://github-readme-stats-read-only.vercel.app/api/top-langs?username=mwitomski-official&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326d&hide_border=true" 
-                        alt="mwitomski-official" />
-               </a>
-            </td>
-         </tr>
-   <tbody>
-<table>
+<table class="profile-stats" align="center">
+   <tr>
+      <td align="center">
+         <h2>📊 Stats</h2>
+      </td>
+   </tr>
+   <tr>
+      <th colspan="2" align="center">
+         <a href ="https://github.com/mwitomski-official">
+            <img align="center" width="500vh" src="https://github-readme-stats-read-only.vercel.app/api?username=mwitomski-official&show_icons=true&locale=en&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326d&hide_border=true"  alt="mwitomski-official" />
+         </a>
+      </th>
+   </tr>
+   <tr>
+      <th colspan="2" align="center">
+         <a href ="https://github.com/mwitomski-official">
+            <img align="center" width="500vh" src="https://github-readme-streak-stats.herokuapp.com/?user=mwitomski-official&theme=dark&background=27045A&hide_border=true"  alt="mwitomski-official" />
+         </a>
+      </th>
+   </tr>
+   <tr>
+      <th align='center'>
+         <a href ="https://github.com/mwitomski-official">
+            <img align="center" width="500vh" src="https://github-readme-stats-read-only.vercel.app/api/top-langs?username=mwitomski-official&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=DEG,27045a,211461,1b2066,16296a,14326d&hide_border=true" alt="mwitomski-official" />
+         </a>
+      </th>
+   </tr>
+</table>
+
+</br>
 
 ## Used
 
@@ -216,3 +214,4 @@
 - [Background image](https://cdn.mos.cms.futurecdn.net/HLG4zrX4GEASPV8e7nm9WK.jpg)
 - [Video by Ingrid North](https://www.pexels.com/video/planet-earth-in-close-up-view-4478322/)
 - [Awesome badges](https://github.com/Envoy-VC/awesome-badges)
+- [The Fastest Way to Make and Edit Gifs and Short Videos](https://gifs.com/)
