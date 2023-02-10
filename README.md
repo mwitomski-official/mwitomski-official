@@ -3,6 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=mwitomski-official&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mwitomski-official - profile views" /> 
   <img src="https://img.shields.io/github/last-commit/mwitomski-official/mwitomski-official?style=for-the-badge" alt="mwitomski-official - last commit" />
 </div>
+</br></br>
 
 <!-- Badges with sites -->
 <div align="left" class="badges-with-sites">
@@ -31,6 +32,7 @@
       <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" height="35" alt="codepen logo" />
    </a>   
 </div>
+</br></br>
 
 <!-- Banner -->
 <div class="banner" align="center">
