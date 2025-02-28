@@ -1,9 +1,10 @@
-<strong>DRAFT - Build in progress</strong>
-
 <!-- --------------------------------------------- Badges with stats --------------------------------------------- -->
 <div class="badges-with-stats" align="left">
   <img src="https://komarev.com/ghpvc/?username=mwitomski-official&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mwitomski-official - profile views" /> 
-  <img src="https://img.shields.io/github/last-commit/mwitomski-official/mwitomski-official?style=for-the-badge" alt="mwitomski-official - last commit" />
+  <img src="https://img.shields.io/github/last-commit/mwitomski-official/mwitomski-official.github.io?style=for-the-badge" alt="mwitomski-official.github.io - last commit" />
+  <a href="https://www.linkedin.com/in/mateusz-witomski/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?logo=linkedin&logoColor=white&color=0D76A8&style=for-the-badge" alt="mwitomski-official - LinkedIn profile" />
+  </a>
 </div>
 </br>
 <!-- --------------------------------------------- Banner --------------------------------------------- -->
@@ -11,7 +12,6 @@
   <img src="content/space2.gif" 
        alt="https://www.space.com/james-webb-space-telescope-orion-nebula-photo" />
 </div>
-
 <!-- --------------------------------------------- About Me --------------------------------------------- -->
 <div class="about-me" align="left">
    <br/><br/>
@@ -27,39 +27,52 @@
       </div>
    </h3><br/>
    <!-- --------------------------------------------- Learning --------------------------------------------- -->
-   <h3>🧪 &emsp; I am currently learning </br></br>
-      <!--   <div align="left">
+   <h3>🧪 &emsp; I am currently gaining and consolidating knowledge from</br></br>
+      <div align="left">
          <a href="https://www.eventstore.com/cqrs-pattern" target="_blank">
             <img 
                src="https://img.shields.io/static/v1?message=CQRS&logo=.net&label=&color=512BD4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CQRS logo" />
          </a>
-          <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank">
+         <a href="https://angular.dev/" target="_blank">
             <img 
-               src="https://img.shields.io/static/v1?message=Blazor&logo=blazor&label=&color=512BD4&logoColor=whte&labelColor=&style=for-the-badge" height="35" alt="balzor logo" />
+               src="https://img.shields.io/static/v1?message=Angular&logo=angular&label=&color=9034F6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Angular logo" />
          </a>
-         <a href="https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-7.0" target="_blank">
+        <a href="https://material.angular.io/" target="_blank">
             <img 
-               src="https://img.shields.io/static/v1?message=.NET 7 - MAUI&logo=.net&label=&color=512BD4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt=".NET 7 MAUI logo" />
+               src="https://img.shields.io/static/v1?message=Angular Material&logo=angular&label=&color=08504F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Angular Material logo" />
          </a>
-      </div> -->
-   </h3><br/>
-   <!-- --------------------------------------------- Digital Garden --------------------------------------------- -->
-   <h3>📝 &emsp; I regularly write articles using </br></br>
-      <!-- <div align="left">
-         <a href="https://mwitomski-official.github.io/" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=Orion | 🌱 Digital Garden | Site &logo=obsidian&label=&color=301e66&logoColor=f1b81d&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+        <a href="https://www.python.org/" target="_blank">
+            <img 
+               src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=2D5E82&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Angular Material logo" />
          </a>
-      </div> -->
+      </div>
+
      
    </h3><br/>
+   <!-- --------------------------------------------- Digital Garden --------------------------------------------- -->
+   <h3>📝 &emsp; I'm moving my digital garden to a new engine</br></br>
+     <div align="left">
+       <a href="https://astro.build/" style="text-decoration: none">
+        <img alt="Astro" src="https://img.shields.io/badge/-Astro-BC52EE?logo=Astro&logoColor=white&style=flat&">
+      </a>
+      <a href="https://starlight.astro.build/" style="text-decoration: none">
+        <img alt="Starlight" src="https://img.shields.io/badge/-Starlight-E1A037?logo=Starship&logoColor=white&style=flat&">
+      </a>
+    </div>
+    <div align="left">
+      <a href="https://mwitomski-official.github.io/" target="_blank">
+         <img src="https://img.shields.io/static/v1?message=Orion | 🌱 Digital Garden | Site &logo=obsidian&label=&color=301e66&logoColor=f1b81d&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+      </a>
+   </div>
+   </h3><br/>
    <!-- --------------------------------------------- Main Info --------------------------------------------- -->
-   <h3> 🔭 &emsp; I am currently developing <br/><br/>
-      <!-- <div align="left">
+   <!-- <h3> 🔭 &emsp; I am currently developing <br/><br/>
+       <div align="left">
          <a href="https://github.com/mwitomski-official/mwitomski-official.github.io" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Orion | 🌱 Digital Garden | Repo &logo=obsidian&label=&color=301e66&logoColor=f1b81d&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
          </a>
-      </div> -->
-   </h3><br/>
+      </div>
+   </h3><br/>  -->
 </div>
 
 <!-- --------------------------------------------- About Skills & Tools --------------------------------------------- -->
@@ -81,7 +94,7 @@
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&labelColor=black)
 ![C#](https://img.shields.io/badge/C%23-6A1577?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=black)
-</br>
+![Python](https://img.shields.io/static/v1?message=Python&logo=python&label=&color=2D5E82&logoColor=white&labelColor=&style=for-the-badge)
 
 ### 🖼️ Frontend
 
@@ -131,6 +144,20 @@
 </br>
 
 <!-- --------------------------------------------- About Profile Trophies --------------------------------------------- -->
+# 📈 &emsp; Stats
+<p align="center">
+  <a href="https://github.com/mwitomski-official">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwitomski-official&theme=radical&border=7F3FBF&background=0D1117" alt=""/>
+  </a>
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwitomski-official&theme=midnight_purple" alt=""/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mwitomski-official&theme=midnight_purple" alt=""/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mwitomski-official&theme=midnight_purple" alt=""/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mwitomski-official&theme=midnight_purple" alt=""/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mwitomski-official&theme=midnight_purple&utcOffset=8" alt=""/>
+</p>
+
 <table class="profile-trophies" align="center">
    <tr>
       <td align="center">
@@ -146,8 +173,10 @@
       </th>
    </tr>
 </table>
+
+
 </br>
-<table class="profile-stats" align="center">
+<!-- <table class="profile-stats" align="center">
    <tr>
       <td align="center">
          <h2>📊 Stats</h2>
@@ -175,9 +204,13 @@
       </th>
    </tr>
 </table>
-</br>
+</br> 
+<br/>
+<hr/>
+<br/> -->
 
 ## Used
+- [GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/demo.html)
 - [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy),
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator),
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats),
