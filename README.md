@@ -21,14 +21,36 @@
    <h3>💻 &emsp; I am currently working in </br></br>
       <div align="left">
          <a href="https://www.fujitsu.com/global/" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=Fujitsu | Poland &logo=fujitsu&label=&color=e70008&logoColor=white&labelColor=&style=for-the-badge" 
+            <img src="https://img.shields.io/static/v1?message=Fujitsu%20|%20Poland%20&logo=fujitsu&label=&color=e70008&logoColor=white&labelColor=&style=for-the-badge" 
             height="35" alt="fujitsu logo" />
          </a>
       </div>
    </h3><br/>
    <!-- --------------------------------------------- Learning --------------------------------------------- -->
    <h3>🧪 &emsp; I am currently gaining and consolidating knowledge from</br></br>
-      <div align="left">
+     <div class="prio-1" align="left">
+        <h4>Prio 1</h4>
+        <!-- Python logo -->
+        <a href="https://www.python.org/" target="_blank">
+            <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=2D5E82&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Python logo" />
+        </a>
+        <!-- Docker logo -->
+        <a href="https://www.docker.com/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=&message=Docker&color=00173a&style=for-the-badge&logo=docker" height="35" alt="Docker logo" />
+        </a>
+        <!-- Docker-compose logo -->
+        <a href="https://docs.docker.com/compose/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=&message=Docker+Compose&color=0a58ec&style=for-the-badge&logo=Docker&logoColor=white" height="35" alt="Docker-Compose logo" />
+        </a>
+       <!-- Linux logo -->
+        <a href="https://rockylinux.org/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=&message=Linux&color=black&style=for-the-badge&logo=linux&logoColor=28bb85" height="35" alt="Linux logo" />
+        </a>
+     </div>
+     </br>
+     <div class="prio-2" align="left">
+       <h4>Prio 2</h4>
+       <div align="left">
          <a href="https://www.eventstore.com/cqrs-pattern" target="_blank">
             <img 
                src="https://img.shields.io/static/v1?message=CQRS&logo=.net&label=&color=512BD4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CQRS logo" />
@@ -41,12 +63,8 @@
             <img 
                src="https://img.shields.io/static/v1?message=Angular Material&logo=angular&label=&color=08504F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Angular Material logo" />
          </a>
-        <a href="https://www.python.org/" target="_blank">
-            <img 
-               src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=2D5E82&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Angular Material logo" />
-         </a>
       </div>
-
+     </div>
      
    </h3><br/>
    <!-- --------------------------------------------- Digital Garden --------------------------------------------- -->
@@ -215,6 +233,7 @@
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator),
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats),
 - [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats),
+- [badge generator](https://michaelcurrin.github.io/badge-generator/#/generic),
 - [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter),
 - [shields](https://shields.io/),
 - [Gradient](https://mycolor.space/gradient?ori=to+right+bottom&hex=%2327045A&hex2=%2314326D&sub=1)
